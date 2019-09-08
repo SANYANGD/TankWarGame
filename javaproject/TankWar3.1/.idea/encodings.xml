@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/TankWar/Blood.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TankWar/BloodBar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TankWar/Bullet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TankWar/Direction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TankWar/Explode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TankWar/GameSound.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TankWar/Good.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TankWar/Missile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TankWar/MissileImages.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TankWar/PropertyMgr.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TankWar/RobotTank.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TankWar/Shield.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TankWar/SuperShield.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TankWar/Tank.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TankWar/TankBarrel.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TankWar/TankClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/TankWar/Wall.java" charset="GBK" />
+  </component>
+</project>
